@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://msandecareers.stanford.edu/sites/g/files/sbiybj20286/files/styles/cta_1x_596x397/public/media/image/gallery/main_quad_w_sun_0.png?h=de01fbf5&itok=xu0qUgYy" alt="Banner" width="100%" style="height: 200px; object-fit: cover; object-position: center;" />
+  <img src="https://msandecareers.stanford.edu/sites/g/files/sbiybj20286/files/styles/cta_1x_596x397/public/media/image/gallery/main_quad_w_sun_0.png?h=de01fbf5&itok=xu0qUgYy" alt="Banner" width="800" />
   <h1>Hi, I'm Shrish! 👋</h1>
   <h3> Stanford 2029 | AI Engineer | Builder | Content Creator</h3>
 </div>
 
 <p align="center">
   <a href="https://estateparrot.com"><img src="https://estateparrot.com/static/media/logo_no_text.a6e164c35c82732130ba.png" alt="Work" width="50"></a>
-  
+</p>
+
+<p align="center">
   <a href="https://www.tiktok.com/@shrish_is/"><img src="https://img.shields.io/badge/TikTok-%40shrishis-black?style=flat-square&logo=tiktok" alt="TikTok"></a>
   <a href="https://www.instagram.com/shrish_is/"><img src="https://img.shields.io/badge/Instagram-%40shrishis-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/@ShrishIs"><img src="https://img.shields.io/badge/YouTube-%40shrishis-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -78,5 +80,5 @@
 
 <!-- Optionally, add a visitor badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShrishPremkrishna&style=flat-square" alt="Profile views" />
 </p>
