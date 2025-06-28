@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://msandecareers.stanford.edu/sites/g/files/sbiybj20286/files/styles/cta_1x_596x397/public/media/image/gallery/main_quad_w_sun_0.png?h=de01fbf5&itok=xu0qUgYy" alt="Banner" width="800" />
   <h1>Hi, I'm Shrish! 👋</h1>
   <h3> Stanford 2029 | AI Engineer | Builder | Content Creator</h3>
 </div>
