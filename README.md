@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Shrish! 👋</h1>
   <h3> Stanford 2029 | AI Engineer | Builder | Content Creator</h3>
+  
+  <p><strong>Check out <a href="https://estateparrot.com">Estate Parrot</a></strong></p>
 </div>
 
 <p align="center">
