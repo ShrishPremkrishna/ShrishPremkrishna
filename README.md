@@ -19,11 +19,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Incoming freshman at **Stanford University**
+- 🎓 Incoming freshman at Stanford University
 - 🏢 Currently building at [EstateParrot.com](https://estateparrot.com)
-- 🤖 Passionate about **Artificial Intelligence** and the latest in tech
+- 🤖 Passionate about Artificial Intelligence and the latest in tech
 - 🛠️ Love projects and experimenting with new tools
-- 📚 I create the occasional **GitHub tutorials** and share content, sometimes technical, on social media (follow [shrish is](https://www.youtube.com/@ShrishIs)!)
+- 📚 I create the occasional GitHub tutorials and share content, sometimes technical, on social media (follow [shrish is](https://www.youtube.com/@ShrishIs)!)
 - 🎤 Love startup culture, public speaking, working in teams, and leading.
 
 ---
