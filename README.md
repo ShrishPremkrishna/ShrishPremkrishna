@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://estateparrot.com"><img src="https://estateparrot.com/static/media/logo_no_text.a6e164c35c82732130ba.png" alt="Work" width="50"></a>
+  <a href="https://estateparrot.com"><img src="[https://estateparrot.com/static/media/logo_no_text.a6e164c35c82732130ba.png](https://estateparrot.com/static/media/logo_no_text.d38b8dcc18502e432f90.png)" alt="Work" width="50"></a>
 </p>
 
 <p align="center">
