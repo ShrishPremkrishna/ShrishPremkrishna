@@ -6,10 +6,6 @@
 </div>
 
 <p align="center">
-  <a href="https://estateparrot.com"><img src="https://estateparrot.com/static/media/logo_no_text.d38b8dcc18502e432f90.png" alt="Work" width="50"></a>
-</p>
-
-<p align="center">
   <a href="https://www.tiktok.com/@shrish_is/"><img src="https://img.shields.io/badge/TikTok-%40shrishis-black?style=flat-square&logo=tiktok" alt="TikTok"></a>
   <a href="https://www.instagram.com/shrish_is/"><img src="https://img.shields.io/badge/Instagram-%40shrishis-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.youtube.com/@ShrishIs"><img src="https://img.shields.io/badge/YouTube-%40shrishis-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -17,10 +13,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 about me
 
 - 🎓 Incoming freshman at Stanford University
-- 🏢 Currently building at [EstateParrot.com](https://estateparrot.com)
 - 🤖 Passionate about Artificial Intelligence and the latest in tech
 - 🛠️ Love projects and experimenting with new tools
 - 📚 I create the occasional GitHub tutorials and share content, sometimes technical, on social media (follow [shrish is](https://www.youtube.com/@ShrishIs)!)
