@@ -1,6 +1,6 @@
 <div align="center">
   <h1>shrish premkrishna</h1>
-  <h3> stanford '29 | AI/ML | robotics | enviro engineeringr</h3>
+  <h3> stanford '29 | AI/ML | robotics | enviro engineering</h3>
   
   <p><strong>Check out <a href="https://beatify1.lovable.app/">Beatify</a></strong></p>
 </div>
