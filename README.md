@@ -15,7 +15,7 @@
 
 ## 🚀 about me
 
-- 🎓 Incoming freshman at Stanford University
+- 🎓 Freshman at Stanford University
 - 🤖 Passionate about Artificial Intelligence and the latest in tech
 - 🛠️ Love projects and experimenting with new tools
 - 📚 I create the occasional GitHub tutorials and share content, sometimes technical, on social media (follow [shrish is](https://www.youtube.com/@ShrishIs)!)
